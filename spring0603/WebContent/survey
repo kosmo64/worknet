@@ -1,3 +1,4 @@
+--survey
 create table survey(
 num number primary key,
 sub varchar2(100),

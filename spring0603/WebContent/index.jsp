@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="EUC-KR">
-<title>index</title>
+<title>index2</title>
 <style>
 	#wrap {
 		width: 450px; margin: auto; text-align: center;
